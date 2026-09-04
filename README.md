@@ -7,7 +7,7 @@ No frameworks, no backend, no install — just open `index.html` in any modern b
 
 ## Live Demo
 
-**GitHub Pages URL:** *(add after deployment — see TASK-16)*
+**GitHub Pages URL:** https://zalfanovita19-lab.github.io/CodingCamp-31August26-ZalfaHilmiAbdilah/
 
 ---
 
